@@ -48,10 +48,3 @@
 <img src="https://raw.githubusercontent.com/Rafragon/Rafragon/output/snake.svg" alt="Snake animation" />
 
 ###
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Rafragon/Rafragon/output/snake.svg" alt="Snake animation" />
-
-###
