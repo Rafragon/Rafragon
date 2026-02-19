@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Rafael (Rafragon) from São Paulo, Brazil.<br><br>- 🔭 I’m working as an Information Systems' student at EACH USP<br>- 📚 I'm currently learning Python and AI<br>- ⚡ In my free time I like gaming and watch cartoons or animes</p>
+###<p align="left">I'm Rafael (Rafragon) from São Paulo, Brazil.<br><br>- 🔭 I’m working as an Information Systems' student at EACH USP<br>- 📚 I'm currently learning Python ###and AI<br>- ⚡ In my free time I like gaming and watch cartoons or animes</p>
 
 ###
 
